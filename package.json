@@ -13,7 +13,6 @@
         "material-ui": "*",
         "query-string": "*",
         "react-codemirror": "*",
-        "react-deep-force-update": "*",
         "react-dom": "*",
         "react-hot-loader": "next",
         "react-redux": "*",
