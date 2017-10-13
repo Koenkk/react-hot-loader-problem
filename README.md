@@ -1,3 +1,6 @@
+# Update 13-10-2017
+Problem solved! See https://github.com/gaearon/react-hot-loader/issues/668
+
 # Problem
 Hot reloading does not work with a connected component.
 
